@@ -1,0 +1,2 @@
+module javaDay3 {
+}
